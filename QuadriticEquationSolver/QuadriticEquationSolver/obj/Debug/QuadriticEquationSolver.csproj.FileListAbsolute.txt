@@ -1,0 +1,5 @@
+C:\Users\Egli\Documents\Visual Studio 2013\Projects\QuadriticEquationSolver\QuadriticEquationSolver\bin\Debug\QuadriticEquationSolver.exe.config
+C:\Users\Egli\Documents\Visual Studio 2013\Projects\QuadriticEquationSolver\QuadriticEquationSolver\bin\Debug\QuadriticEquationSolver.exe
+C:\Users\Egli\Documents\Visual Studio 2013\Projects\QuadriticEquationSolver\QuadriticEquationSolver\bin\Debug\QuadriticEquationSolver.pdb
+C:\Users\Egli\Documents\Visual Studio 2013\Projects\QuadriticEquationSolver\QuadriticEquationSolver\obj\Debug\QuadriticEquationSolver.exe
+C:\Users\Egli\Documents\Visual Studio 2013\Projects\QuadriticEquationSolver\QuadriticEquationSolver\obj\Debug\QuadriticEquationSolver.pdb
